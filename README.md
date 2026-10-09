@@ -4,7 +4,10 @@ A Next.js starter that generates images and videos with Picsart models through t
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FPicsArt%2Fpicsart-vercel-starter&env=PICSART_API_KEY&envDescription=Your%20Picsart%20API%20key%2C%20used%20on%20the%20server%20to%20generate%20images%20and%20videos&envLink=https://picsart.com/api-platform/docs/authentication)
 
-![The studio before an API key is added](docs/screenshot.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/screenshot-dark.png">
+  <img alt="The studio after generating an image with Picsart SANA-Sprint" src="docs/screenshot.png">
+</picture>
 
 ## What it does
 
