@@ -16,7 +16,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@picsart/vercel-ai-provider": "^0.2.0",
+    "@picsart/vercel-ai-provider": "^0.2.2",
     "ai": "^7.0.133",
     "geist": "^1.7.2",
     "next": "^16.4.0",
